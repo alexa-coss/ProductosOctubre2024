@@ -53,7 +53,7 @@ Se busca poner en práctica todo lo aprendido en el módulo "Introducción a la 
 
 Este es el código con la estructura HTML de mi proyecto número 8.
 
-![Código práctica 8](https://i.postimg.cc/ydvJbNsJ/VS-Code-HTML.jpg)
+![Código práctica 8]()
 
 Para consultar el código completo visita la carpeta [Proyecto 8](https://drive.google.com/drive/folders/1h12aIHJzWhx2DbxXuPkaRtgh8mRwtzhy?usp=sharing).
 
