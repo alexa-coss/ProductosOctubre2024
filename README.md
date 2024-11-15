@@ -119,19 +119,24 @@ Estos son los primeros pasos básicos para relizar este proyecto. Posteriormente
 
 ### Código
 
-Este es el código con la estructura HTML de mi proyecto número 8.
+Este es el inicio y la parte final de mi código con la estructura HTML de mi proyecto número 8.
 
-![Código práctica 8]()
+![Código inicio práctica 8](https://i.imgur.com/OEV8OPs.jpeg)
+![Código final práctica 8](https://i.imgur.com/00iaazU.jpeg)
 
-Para consultar el código completo, visita la carpeta [Código](https://drive.google.com/drive/folders/1h12aIHJzWhx2DbxXuPkaRtgh8mRwtzhy?usp=sharing) en Proyecto 8.
+Para consultar el código completo, visita la carpeta [Código](https://drive.google.com/drive/folders/10T04YEL6V4iKeJ71RSo2OCFEgb2AQQrO?usp=sharing) en Proyecto 8.
 
 ### Página
 
-Esta es la página web de mi proyecto número 8.
+Este es la página web de mi proyecto número 8.
 
-![Código práctica 8]()
+![Código práctica 8](https://i.imgur.com/vdCJ5Yr.jpeg)
+![Código práctica 8](https://i.imgur.com/djz6OXF.jpeg)
+![Código práctica 8](https://i.imgur.com/Fq502dL.jpeg)
+![Código práctica 8](https://i.imgur.com/4RGeWC4.jpeg)
+![Código práctica 8](https://i.imgur.com/Sk5XP9e.jpeg)
 
-Para consultar la página web de mi proyecto número 8, visita la [página](https://alexa-coss.github.io/ProductosOctubre2024/).
+Para consultar la página web de mi proyecto número 8, visita la página [Productos octubre 2024](https://alexa-coss.github.io/ProductosOctubre2024/).
 
 ## Entregables
 
